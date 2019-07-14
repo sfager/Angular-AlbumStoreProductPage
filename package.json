@@ -29,6 +29,7 @@
   "private": true,
   "dependencies": {
     "@angular/animations": "5.2.0",
+    "@angular/cli": "^1.6.8",
     "@angular/common": "5.2.0",
     "@angular/compiler": "5.2.0",
     "@angular/core": "5.2.0",
@@ -42,7 +43,6 @@
     "zone.js": "0.8.12"
   },
   "devDependencies": {
-    "@angular/cli": "1.6.5",
     "@angular/compiler-cli": "5.2.0",
     "@angular/language-service": "5.2.0",
     "@phenomnomnominal/tsquery": "2.1.1",
